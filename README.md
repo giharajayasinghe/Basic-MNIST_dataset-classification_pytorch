@@ -1,0 +1,2 @@
+# Basic-MNIST_dataset-classification_pytorch
+Mnist_dataset classification
